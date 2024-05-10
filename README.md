@@ -1,3 +1,3 @@
-##Chat App
-###Written in Java
-####By Jordan Archer
+## **Chat App**
+### Written in _Java_
+#### By Jordan Archer
